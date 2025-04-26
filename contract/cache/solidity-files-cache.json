@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/gokul/Desktop/Projects/buy-me-a-coffee/contract/contracts/CoffeeDonation.sol": {
+      "lastModificationDate": 1745572541613,
+      "contentHash": "4445dd467b697ab2716dfd58bcad824f",
+      "sourceName": "contracts/CoffeeDonation.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "CoffeeDonation"
+      ]
+    }
+  }
+}
